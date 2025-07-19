@@ -1,0 +1,55 @@
+# Build directory
+build/
+out/
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.toc
+*.lot
+*.lof
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ilg
+*.ind
+*.bbl
+*.blg
+
+# Backup files
+*~
+*.bak
+*.backup
+*.orig
+
+# Editor temp files
+*.swp
+*.swo
+.*.swp
+*.out.ps
+
+# PDF outputs (if you don’t want to track them)
+*.pdf
+
+# Bibliography and glossaries
+*.bcf
+*.run.xml
+*.glo
+*.gls
+*.ist
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor directories
+.idea/
+.vscode/
+
+# Custom style or class files you DO track (uncomment if needed)
+# !styles/*.sty
+# !styles/*.cls
