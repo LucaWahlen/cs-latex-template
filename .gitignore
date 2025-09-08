@@ -32,9 +32,6 @@ out/
 .*.swp
 *.out.ps
 
-# PDF outputs (if you don’t want to track them)
-*.pdf
-
 # Bibliography and glossaries
 *.bcf
 *.run.xml
@@ -49,7 +46,3 @@ Thumbs.db
 # IDE / Editor directories
 .idea/
 .vscode/
-
-# Custom style or class files you DO track (uncomment if needed)
-# !styles/*.sty
-# !styles/*.cls
